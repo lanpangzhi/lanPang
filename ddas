@@ -1,0 +1,78 @@
+[33mcommit 848b431d2316c075003c3ab0198e5c153ee8047f[m
+Author: jilei786 <875727617@qq.com>
+Date:   Mon Sep 5 10:10:57 2016 +0800
+
+    9.5新的一周开始了
+
+[33mcommit a3ddff035417c46760cb5ced86b3e2ec9498a5aa[m
+Merge: 823fde8 3610eb1
+Author: jilei786 <875727617@qq.com>
+Date:   Fri Sep 2 18:29:27 2016 +0800
+
+    解决冲突
+
+[33mcommit 823fde8d2a5ff44efb61336c8e3c63ec856a5622[m
+Author: jilei786 <875727617@qq.com>
+Date:   Fri Sep 2 18:20:19 2016 +0800
+
+    & dev2
+
+[33mcommit 3610eb1d3550cfbca9b9c0b8623f614179a60f70[m
+Author: jilei786 <875727617@qq.com>
+Date:   Fri Sep 2 18:08:22 2016 +0800
+
+    AND dev2
+
+[33mcommit 2c5a8d083d81d109e4f60f0490940482da0d175e[m
+Author: jilei786 <875727617@qq.com>
+Date:   Fri Sep 2 17:55:08 2016 +0800
+
+    分支
+
+[33mcommit 0518a470cf2b07a3ff3ac2c568942a7518502c4d[m
+Author: jilei786 <875727617@qq.com>
+Date:   Fri Sep 2 10:18:18 2016 +0800
+
+    Create README.md
+
+[33mcommit 41fb032879db4daf7d700ba8716abc7871cb2a1b[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 17:53:45 2016 +0800
+
+    删除text01
+
+[33mcommit 07a7d79ad5c151b453364632986b2451ed7ecb66[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 17:52:24 2016 +0800
+
+    add text01
+
+[33mcommit c84db6f447c10970e85f94f84a6fd62c754d74a8[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 14:06:09 2016 +0800
+
+    你好呀
+
+[33mcommit f3b5c51153c3d7fd172bb7fe94cfd20bbb603075[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 11:46:28 2016 +0800
+
+    再次修改
+
+[33mcommit 1655f50b86cc89ba1603d16762942e24140e4e65[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 11:07:15 2016 +0800
+
+    好简单哦~~
+
+[33mcommit 55500a09468beae55b00c085919c8dca1aca6f19[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 11:04:30 2016 +0800
+
+    第二次又没了
+
+[33mcommit 174fba5c467d05c2fa04137eb44d5f512fe7b91e[m
+Author: lanpang <875727617@qq.com>
+Date:   Thu Sep 1 10:47:15 2016 +0800
+
+    第一次送给了git
